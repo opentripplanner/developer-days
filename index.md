@@ -15,6 +15,9 @@ Germany
 
 - [OpenStreetMap](https://www.openstreetmap.org/way/1079127205)
 - [Google Maps](https://maps.app.goo.gl/whhUma1Se8n3Nohc6)
+
+When you arrive at Prinzenstraße 34 you need to go to the very large gate where there is a bell
+for the Adesso office.
  
 ## Who will be there?
 
