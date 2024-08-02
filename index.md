@@ -31,6 +31,10 @@ If you want to join, please fill in the [registration form](https://tinyurl.com/
 
 The preliminary schedule available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
 
+## Social events
+
+Social events like dinners and excursions will also be part of the programme.
+
 ## Partners
 
 ![Entur](img/entur.png)
