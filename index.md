@@ -15,7 +15,7 @@ Germany
 
 - [OpenStreetMap](https://www.openstreetmap.org/way/1079127205)
 - [Google Maps](https://maps.app.goo.gl/whhUma1Se8n3Nohc6)
-- 
+ 
 ## Who will be there?
 
 The main participants are developers who are already familiar with OTP's internals.
