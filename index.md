@@ -6,6 +6,8 @@ date: October 7-11 2024
 The OTP developers are meeting in October in Berlin to discuss technical topics and to socialise. 
 Even though this mini-conference is focussed on technical details everybody is welcome and just listening in is totally fine.
 
+The event is free.
+
 ## Location
 
 Adesso Berlin  
