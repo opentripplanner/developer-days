@@ -39,11 +39,11 @@ If you want to join the PO days, please complete the [registration form](https:/
 
 ## Schedule
 
-The preliminary DEV schedule is available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
+The preliminary developer schedule is available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
 
-### The preliminary PO schedule
+### Preliminary PO schedule
 
-Tuesday November 8th:
+#### Tuesday November 8th
 
 1200-1400: Lunch, Round the table, Roadmap Overview
 
@@ -51,7 +51,7 @@ Tuesday November 8th:
 
 1715 - 1815: Principles  & way of work  - alignment with US/remote participants
 
-Wednesday November 9th:
+#### Wednesday November 9th
 
 0900-0915: Summary day 1 (normalt trenger man ikke mye tid på dette)
 
