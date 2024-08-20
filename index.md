@@ -1,12 +1,13 @@
 ---
 title: OTP Developer and Product Owner Days 2024 Berlin
-date: DEV: October 7-11 2024, PO: October 8-9 2024
+date: October 7-11 2024 (developers), October 8-9 2024 (POs)
 ---
 
 The OTP developers are meeting in October in Berlin to discuss technical topics and to socialise. 
 Even though this mini-conference is focussed on technical details everybody is welcome and just listening in is totally fine.
 
-The OTP Product Owners are meeting for two days to kick-start the process of increased effectiveness in the PO team through facilitated discussions on purpose and common goals, clarifications of expectations, and a way of working within the OTP community. 
+The OTP Product Owners are meeting for two days to kick-start the process of increased effectiveness in the PO team through 
+facilitated discussions on purpose and common goals, clarifications of expectations, and a way of working within the OTP community.
 
 The event is free.
 
@@ -32,7 +33,7 @@ Product owners from active participants and users of OTP are welcome.
 
 ## Registration
 
-If you want to join the DEV week, please complete the [registration form](https://tinyurl.com/4kxz9unv).
+If you want to join the developer week, please complete the [registration form](https://tinyurl.com/4kxz9unv).
 
 If you want to join the PO days, please complete the [registration form](https://tinyurl.com/5empddmj).
 
@@ -41,7 +42,8 @@ If you want to join the PO days, please complete the [registration form](https:/
 The preliminary DEV schedule is available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
 
 ### The preliminary PO schedule
-Tuesday 8.10:
+
+Tuesday November 8th:
 
 1200-1400: Lunch, Round the table, Roadmap Overview
 
@@ -49,7 +51,7 @@ Tuesday 8.10:
 
 1715 - 1815: Principles  & way of work  - alignment with US/remote participants
 
-Wednesday 9.10:
+Wednesday November 9th:
 
 0900-0915: Summary day 1 (normalt trenger man ikke mye tid på dette)
 
