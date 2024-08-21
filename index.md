@@ -43,7 +43,7 @@ The preliminary developer schedule is available as a [Kanban board](https://kanb
 
 ### Preliminary PO schedule
 
-#### Tuesday November 8th
+#### Tuesday October 8th
 
 1200-1400: Lunch, Round the table, Roadmap Overview
 
@@ -51,7 +51,7 @@ The preliminary developer schedule is available as a [Kanban board](https://kanb
 
 1715 - 1815: Principles  & way of work  - alignment with US/remote participants
 
-#### Wednesday November 9th
+#### Wednesday October 9th
 
 0900-0915: Summary day 1 (normalt trenger man ikke mye tid på dette)
 
