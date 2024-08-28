@@ -1,0 +1,31 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  html:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Compile HTML with make/pandoc
+        run: make build
+
+      - name: Configure git user
+        run: |
+          git config --global user.name 'OTP Bot'
+          git config --global user.email 'otp-bot@opentripplanner.org'
+
+      - name: Push latest HTML
+        run: |
+          git add *.html
+          git commit -m "Add compiled HTML"
+          git push
+          
