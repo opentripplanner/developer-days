@@ -22,8 +22,8 @@ Germany
 - [Google Maps](https://maps.app.goo.gl/whhUma1Se8n3Nohc6)
 
 When you arrive at Prinzenstraße 34, ignore the regular door and walk to the [large gate](https://www.google.com/maps/@52.5026471,13.4099237,3a,49.6y,130.72h,92.18t/data=!3m6!1e1!3m4!1se4IdhSrUaB4KzyH4BShLZg!2e0!7i16384!8i8192?coh=205409&entry=ttu) 
-to the right of the building and ring the bell for the Adesso office. 
-Then walk through the courtyard and take a slight right
+to the right of the building, ring the bell for the Adesso office. 
+Then, walk through the courtyard and take a slight right
  
 ## Who will be there?
 
@@ -39,25 +39,7 @@ If you want to join the PO days, please complete the [registration form](https:/
 
 ## Schedule
 
-The preliminary developer schedule is available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
-
-### Preliminary PO schedule
-
-#### Tuesday October 8th
-
-1200-1400: Lunch, Round the table, Roadmap Overview
-
-1400-1700: Principles & way of work - first session
-
-1715 - 1815: Principles  & way of work  - alignment with US/remote participants
-
-#### Wednesday October 9th
-
-0900-0915: Summary day 1 (normalt trenger man ikke mye tid på dette)
-
-0915-1145: Principles & way of work  - last session
-
-1300-1500: Gouvernance, Funding and Management role
+The preliminary schedule is available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
 
 ## Social events
 
