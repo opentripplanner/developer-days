@@ -43,12 +43,11 @@ The preliminary schedule is available as a [Kanban board](https://kanban.adminfo
 
 ## Getting around the city
 
-You can buy public transport tickets from the official [BVG Tickets App](https://www.bvg.de/de/abos-und-tickets/alle-apps/ticket-app) as
-well as the routing planning app [BVG Fahrinfo](https://www.bvg.de/de/abos-und-tickets/alle-apps/fahrinfo-app). Ticket machines are also available
-at train and subway stations but not bus stops. Wherever you get your tickets, it might be cheaper to get a daily or weekly pass rather than individual
-tickets.
+You can buy public transport tickets from the official [BVG Tickets App](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app) as
+well as the routing planning app [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app). Ticket machines are also available
+at train and subway stations but not bus stops. It might be cheaper to get a daily or weekly pass rather than individual tickets.
 
-Berlin is flat and therefore cycling is a popular option. Some hotels also have a bike rental service.
+Berlin is flat and therefore cycling is a popular option. Some hotels offer a bike rental service.
 
 ## Social events
 
