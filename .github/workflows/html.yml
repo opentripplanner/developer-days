@@ -23,6 +23,9 @@ jobs:
           git config --global user.name 'OTP Bot'
           git config --global user.email 'otp-bot@opentripplanner.org'
 
+      - name: Wait 60s for previous deploy to succeed
+        run: sleep 60
+
       - name: Push latest HTML
         run: |
           git add *.html
