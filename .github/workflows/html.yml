@@ -19,16 +19,11 @@ jobs:
       - name: Compile HTML with make/pandoc
         run: make build
 
-      - name: Configure git user
-        run: |
-          git config --global user.name 'OTP Bot'
-          git config --global user.email 'otp-bot@opentripplanner.org'
-
-      - name: Wait 60s for previous deploy to succeed
-        run: sleep 60
-
       - name: Push latest HTML
         run: |
+          sleep 45
+          git config --global user.email 'otp-bot@opentripplanner.org'
+          git config --global user.name 'OTP Bot'
           git add *.html
           git commit -m "Add compiled HTML"
           git push
