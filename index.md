@@ -41,6 +41,15 @@ If you want to join the PO days, please complete the [registration form](https:/
 
 The preliminary schedule is available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
 
+## Getting around the city
+
+You can buy public transport tickets from the official [BVG Tickets App](https://www.bvg.de/de/abos-und-tickets/alle-apps/ticket-app) as
+well as the routing planning app [BVG Fahrinfo](https://www.bvg.de/de/abos-und-tickets/alle-apps/fahrinfo-app). Ticket machines are also available
+at train and subway stations but not bus stops. Wherever you get your tickets, it might be cheaper to get a daily or weekly pass rather than individual
+tickets.
+
+Berlin is flat and therefore cycling is a popular option. Some hotels also have a bike rental service.
+
 ## Social events
 
 Social events like dinners and excursions will also be part of the program.
