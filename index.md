@@ -56,7 +56,7 @@ There will dinners organised by Leonard on Monday, Tuesday and Friday night. Of 
 are free to go for dinner in any group(s) they wish.
 
 If people are still in town on Saturday, there will be a longer trip, for example going to
-[Sancsoussi Gardens](https://www.spsg.de/en/palaces-gardens/object/sanssouci-palace) or
+[Sanssoussi Gardens](https://www.spsg.de/en/palaces-gardens/object/sanssouci-palace) or
 a [sightseeing boat trip](https://www.sternundkreis.de/en/cruises/city-tour-from-friedrichstrasse-c8/).
 
 ## Partners
