@@ -45,7 +45,7 @@ The preliminary schedule is available as a [Kanban board](https://kanban.adminfo
 
 You can buy public transport tickets from the official [BVG Tickets App](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app) as
 well as the route planning app [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app) (sadly not OTP-based). 
-Ticket machines are also available at train and subway stations but not bus stops. It might be cheaper to get a daily or weekly pass rather than individual tickets.
+Ticket machines are also available at train and subway stations but not bus stops. Daily, weekly or tourist-oriented passes are available.
 
 Berlin is flat and therefore cycling is a popular option. Some hotels offer a bike rental service. There are also the bike rental apps
 [Call A Bike](https://www.callabike.de/en/home) and [Nextbike](https://www.nextbike.de/berlin/en/).
