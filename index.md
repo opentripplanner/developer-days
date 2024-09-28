@@ -39,7 +39,7 @@ If you want to join the PO days, please complete the [registration form](https:/
 
 ## Schedule
 
-The preliminary schedule is available as a [Kanban board](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
+[The schedule is available here.](https://kanban.adminforge.de/b/xJqXAF2BpdwjpcSCz/otp-developer-days-2024-berlin).
 
 ## Getting around the city
 
